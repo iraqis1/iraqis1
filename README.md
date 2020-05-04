@@ -6,6 +6,6 @@
 
 [![@cCcYo](https://hswny-bb.ml/cc.jpg)](https://t.me/cCcYo) 
 
-[![Developers channel](https://hswny-bb.ml/cq.jpg)](https://T.me/cqccqq)
+[![Developers channel](https://hswny-bb.ml/qc.jpg)](https://T.me/cqccqq)
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
